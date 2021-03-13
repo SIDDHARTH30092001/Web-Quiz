@@ -1,0 +1,36 @@
+*{
+    background-color:wheat;
+    width: auto;
+    height: auto;
+    margin: 0px;
+    padding: 5px;
+    font-family:  "Josefin Sans", sans-serif;
+    font-size: 25px;
+    scroll-behavior: smooth;
+}
+
+header{
+    color:linear-gradient(to right,blue,red);
+}
+
+body{
+    height: auto;
+    width: 100%;
+    background-color:rgb(233, 17, 17);
+}
+
+.qna1,.qna3,.qna5{
+    background-color: rgba(65, 207, 72, 0.486);
+}
+.qna2,.qna4{
+    background-color:rgba(48, 126, 228, 0.418);
+}
+
+button{
+    border-radius: 25%;
+    font-size: 20px;
+    color: white;
+    background-color: black;
+    box-shadow: white;
+    outline: transparent;
+}
